@@ -1,0 +1,79 @@
+"member","date","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?","",""
+"Tim Urista (@timothy)","2018-12-18 19:50:31","Meeting and work on signals, overall vision. Fixed failing ts build, added ts linter step to hopefully catch ts issues.","a bunch of tickets","holidays","3 - It's 50/50 at this point","",""
+"Anthony Chavez (@Chavez)","2018-12-18 19:29:36","- **MEETINGS***
+- JIRA tickets pre-flight of 1/9 release
+- Assist on pre-commit/Husky/listing
+- Staffing/roadmap brainstorm & planning w/Brian","Hammer out waterfall for 1/9. Scope, ownership and dependencies","Too many meetings, too much flux re: product strategy and vision = devs not focused. Solution = ignore everything except critical path for Signals. No more conversation that is not solution or goal oriented, fuck the pontificating and theory. Build shit.","1 - Maybe... just maybe","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-18 07:56:00","Took a look at the new slew of stories — unfortunately haven’t been able to get a start yet but will today","This week will be devoted to the Signals detail pages!","This is the last week for Dfuzr before holiday break, so a bit busy with wrapping stuff up there. But I don’t see any true blockers right now","3 - It's 50/50 at this point","",""
+"Anthony Chavez (@Chavez)","2018-12-17 23:04:32","- TS updates to graph-line component, thanks @timothy for the extra :eyes:
+- Interplay meetings all day
+- Company party
+- Brain dump on Brian re: Interplay","- SigX meetings
+- Finish sprint planning re: 1/9
+- Team assignments + ownership over holiday push","Meetings, hours in the day, limited team capacity + variable allocation","1 - Maybe... just maybe","",""
+"Tim Urista (@timothy)","2018-12-17 19:40:27","meetings, getting interplay ready","Interplay strategizing sigx work","Holidays","3 - It's 50/50 at this point","",""
+"Noel Eom (@Noel)","2018-12-17 17:06:13","meetings","meetings","meetings","3 - It's 50/50 at this point","",""
+"Tim Urista (@timothy)","2018-12-14 19:20:45","Interplay work update template styling for chaturah. Repo for changes to http://interplay.iterate.ai  meetings","Sleep unpack","","3 - It's 50/50 at this point","",""
+"Anthony Chavez (@Chavez)","2018-12-14 10:00:16","- Reviewed PRs
+- Meetings on next steps for digital immersion
+- Helped out Avery and got the graphs working
+- Sprint review presentation template
+- Helped out Timothy with Interplay login page deploy","- Wrap up sprint
+- Plan/massage next sprint
+- Prep for signals detail page updates","hours in the day, lots of meetings","1 - Maybe... just maybe","",""
+"Tim Urista (@timothy)","2018-12-13 17:33:57","lots of interplay / interplay dashboard related work. Brain dump of UX fixes last minute. Fixed the create signals page error handling. Page should be g2g now","interplay heads down in prep for monday","last minute changes not documented or accounted for. Been pulled off sigx to work on interplay ux tweaks etc.","0 - No confidence","",""
+"Noel Eom (@Noel)","2018-12-13 17:18:48","algorithm translation, patents creation bug fix, algorithm revision, news and startup share with dave, started algo translation for news","finish news translation, meetings","","3 - It's 50/50 at this point","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-13 17:14:34","- Fixed D3 chart rendering (thanks, @Chavez!)
+- Tightened up responsive styles for cards","- Would like to open a PR for this branch, but having build issues due to `--allow-js not set` in tsconfig… might need assistance since nothing I’ve tried seems to work :confused:","^^^","3 - It's 50/50 at this point","",""
+"member","date","What did you do today or since your last report?","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?",""
+"Avery Wolkin Hadzi (@avery)","2018-12-13 10:28:21","- Got dashboard card PR merged!
+- Started working on the sentiment chart styles
+- Met with Dave about some design/responsive questions","- Got dashboard card PR merged!
+- Started working on the sentiment chart styles
+- Met with Dave about some design/responsive questions","Working on D3 chart and responsive layouts for tiles","Just need to chat with Anthony about how these charts are rendering, but otherwise no!","3 - It's 50/50 at this point",""
+"member","date","What did you do today or since your last report?","What did you do today or since your last report?","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?"
+"Noel Eom (@Noel)","2018-12-13 10:25:28","putting collections aside, news sync with dave, news sentiment over time endpoint, started john's algo translation","..","putting collections aside, news sync with dave, news sentiment over time endpoint, started algo translation and integration with signal obj","today you mean? :stuck_out_tongue: finishing algo translation for patents, starting on translation for news - going to be a bit harder, asap support for tim and avery as they wire things up.","not at the present. got a good stream of work to move on, but some blockers still coming up.","2 - I doubt we can get this done in time"
+"member","date","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?","",""
+"Tim Urista (@timothy)","2018-12-13 09:44:33","Interplay dashboard updates per johns request, helped avery fix some build issues and understand our circle pipeline. Getting introduction to wework space in san jose. looked at issue with python node briefly with dave for interplay.","finish create signals page. Touch base with noel on status of endpoints. show work to jon and get his approval for dashboard so I can move back to sigx","minor ""css"" fixes which require me to redo existing work :disappointed:","2 - I doubt we can get this done in time","",""
+"Tim Urista (@timothy)","2018-12-11 20:03:19","Reviewed @averys pr. Drove. Unpacked some. ","Work on dashboard for interplay. Get setup at we work","Entry into front door","2 - I doubt we can get this done in time","",""
+"Noel Eom (@Noel)","2018-12-11 17:09:10","collections tangle, news discovery after discussion with dave","same, hoping to get this mess untangled by end of sprint but looking unlikely. there's a lot to account for with the two existing different versions of collections and trying to be forward-minded","algorithms and roles","2 - I doubt we can get this done in time","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-11 17:00:21","Got the Dashboard Cards branch into CR","Going to start working with Chavez’s D3 chart within the Dashboard Cards once they’re merged in","Apparently I need some further direction on the git workflow — I keep failing checks and don’t want to cause any more headaches (like I did last week). Perhaps we can go over it in standup tomorrow?","2 - I doubt we can get this done in time","",""
+"Anthony Chavez (@Chavez)","2018-12-11 09:19:31","- Reviewed PRs and met with Avery
+- Next steps for digital immersion meetings
+- Product council meeting
+- Began looking at graphs/charts","- Continue on graphs/charts
+- Lock-up approach to embeddable startup form
+- Clean up sprint
+- Distribute sprint review presentation","hours in the day, task expansion, too many meetings","2 - I doubt we can get this done in time","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-10 18:02:35","Dashboard cards — fixed up view logic and styles","Will probably get this guy into CR; hope to work with Anthony on the sentiment chart","Nope!","3 - It's 50/50 at this point","",""
+"Tim Urista (@timothy)","2018-12-10 17:11:11","Added subcategories to interplay. Create signals page update and fix some logic to redirect to login page on bad session tokens. Work on dashboard to interplay dashbord. Meetings","Drive to san jose and unpack stuff. Doubtful will do much interplay work","The freeway traffix","2 - I doubt we can get this done in time","",""
+"Noel Eom (@Noel)","2018-12-10 17:09:59","meetings, collection job, central patents pull, more collections","more collections, starting to hit blockers on algorithms and share permissions","algorithms for different areas (i.e. sentiment over time), finalized detailed share roles.","3 - It's 50/50 at this point","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-07 17:39:41","Got first PR for dashboard layout and beginnings of style architecture in! Thanks again @timothy for your help.","Going to be working on creating the dashboard card component","Nope!","4 - I am more or less confident (Confident)","",""
+"Tim Urista (@timothy)","2018-12-07 17:18:10","meetings, moving, synced synced with @Chavez about next steps and tickets  so we can reimplement npm package manager and workflow for developing and expanding interplay platform. Got nodered subcategories working, now just need to style them correctly.
+
+reviewed @avery pr and helped her fix git merge / rebase issue.","finish styling, and then do some more packing... traveling monday or tuesday to go to san jose :tada:","","3 - It's 50/50 at this point","",""
+"member","date","What did you do today or since your last report?","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?",""
+"Noel Eom (@Noel)","2018-12-07 17:14:52","Interplay lockout, curate -> signals with mattermark entities sync, hooking up news + sentiment + relevance","db schema, signals prototype tests (not too shabby), some endpoints, interplay meeting, starting on collections","going to really knuckle down on collections and see what can be done, but looking like the last real tangle before the deliverable horizon","","3 - It's 50/50 at this point",""
+"member","date","What did you do today or since your last report?","What will you do tomorrow?","Anything blocking your progress?","How confident are you that we can meet our goals this sprint?","",""
+"Noel Eom (@Noel)","2018-12-05 17:16:12","error logs, bigquery + relevancy in create signals and structure, news discovery, collections discovery","confirm a news source with relevance + sentiment + simple way to attach relevancy score(?) but going to focus on collections sync between Curate and Signals.","not yet, gotta get a bead on signals sharing soon tho","3 - It's 50/50 at this point","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-05 16:47:47","- Still coming up with an architectural plan for the scss (vars, etc)
+- Started on dashboard layout and basic cards","- Hope to start getting mockup color/typography vars in place
+- Split out card into atomic component","- I have some questions I’d like to run by you, @Chavez! Don’t want to go too far down the rabbit-hole","3 - It's 50/50 at this point","",""
+"Tim Urista (@timothy)","2018-12-05 16:24:25","Mostly packing and cleaning home. Spent morning on create signals page up for peer review. Will require another pr to handle styling","Drving and nodered fixes for sub category. ","Being a nomad","2 - I doubt we can get this done in time","",""
+"Noel Eom (@Noel)","2018-12-04 17:55:53","gcloud auth on interplay. create signals support. error handling subflow, error data structure, bigquery project pass into interplay. we're querying!","patents from BQ, finish out error system, news proof, hopefully start on news source.","","3 - It's 50/50 at this point","",""
+"Tim Urista (@timothy)","2018-12-04 17:34:02","Today working on create signals page, working my way through ngForm functionality, and incorporating that stuff. Also working with noel a bit on endpoint definitions for create signals page, meeting with john on interplay quick wins.","finish up create signals page and hand off styling touch ups to @avery, then small interplay work on the subcategory option","may not have a desk to work from tomorrow. Buyers around here suck and are flakey :man-shrugging:","2 - I doubt we can get this done in time","",""
+"Avery Wolkin Hadzi (@avery)","2018-12-04 17:30:25","- Getting acquainted with the codebase and scss situation
+- Working on restructuring the dashboard
+- Measuring LOE for reorganizing style/class architecture","- Continue working on the dashboard and getting global styles in place (piecemeal)","Not at the moment; still in assessment-mode","3 - It's 50/50 at this point","",""
+"Anthony Chavez (@Chavez)","2018-12-04 09:43:30","- On-boarded Avery, github, Jira, Figma, and ops
+- Worked on Digital Transformation event with Dave, Greg, Andrea and Joanne
+- Worked on API micro-service boilerplate (added SwaggerUI and leasot (to track todos, fixes, etc in the code))
+- Re-worked entire Lovescription deck/presentation last night","- Supporting engineering team as available
+- Finalizing Lovescription presentation
+- Greeting Ulta at garage at 1pm
+- Culling 2019 digital innovation ideas with Ulta brass
+- Dinner w/ Ulta+GlamSt+GMS
+- Innovation ""book club""
+- Micro-service API (multi-transport logger, dotenv overrides, add sequelize - or RedShift adapter?)","- # of hours in the day","3 - It's 50/50 at this point","",""
+"Noel Eom (@Noel)","2018-12-03 18:07:13","data proofing, update endpoint, meetings, getting GCP auth on docker","hopefully have GCP auth done by then, if not finish. google bigquery patents flow. news source finalization. prep collections sync system between curate and signals","digital immersion holding a lot of people down, eventually need to land on a detailed share signal functionality.","3 - It's 50/50 at this point","",""
+"Tim Urista (@timothy)","2018-12-03 16:52:01","Styling the login page, building the create signals page, packing and getting ready to move","finish create signals page","just time","3 - It's 50/50 at this point","",""
